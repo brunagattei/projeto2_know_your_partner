@@ -1,4 +1,4 @@
-# projeto2_know_your_partner# Projeto KYP: triagem de integridade de parceiros com IA
+## Projeto KYP: triagem de integridade de parceiros com IA
 
 ## Cenário
 Um analista de Compliance de uma empresa do mercado financeiro (fictícia) precisa avaliar a integridade de um novo parceiro comercial antes de fechar contrato (KYP, Know Your Partner). Ele recebe um dossiê com o resultado de consultas em fontes públicas e precisa transformar isso em um parecer de risco. O agente de IA lê o dossiê, organiza os achados por tema, aplica uma matriz simplificada e entrega um rascunho de parecer. A decisão final é do analista.
