@@ -22,3 +22,4 @@ Com o dossiê de um parceiro em `apoio/parceiros_ficticios.md`, pedir à IA que 
 Todos os nomes, CPFs, CNPJs, valores, processos e notícias são fictícios.
 
 ## Link do repositório
+https://github.com/brunagattei/projeto2_know_your_partner
